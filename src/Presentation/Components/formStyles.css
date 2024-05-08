@@ -1,0 +1,17 @@
+.cardContainer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+
+}
+
+.card{
+    border: solid 2px black;
+    width: 200px;
+    padding: 100px;
+}
+
+.pokemon_image{
+    width: 200px;
+}

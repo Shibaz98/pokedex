@@ -1,0 +1,27 @@
+.inputContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 10px;
+}
+
+.inputfield{
+    width: 200px;
+    height: 25px;
+}
+
+.PokemonCardContainer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+button{
+    margin-left: 5px;
+}

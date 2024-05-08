@@ -1,0 +1,21 @@
+.cardContainerTwo{
+    
+    margin-top: 50px;
+    margin-right: 5px;
+    
+}
+
+.cardTwo{
+    border: solid 2px;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    
+    
+    
+}
+
+.pokemon_imageTwo{
+    width: 200px;
+    
+}
